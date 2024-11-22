@@ -1,5 +1,5 @@
-from helper.quiz import Quiz
-from helper.user import login_user, register_user, check_user_exists
+from Essential.quiz import Quiz
+from Essential.user import login_user, register_user, check_user_exists
 
 dsa_quiz = Quiz("dsa")
 dbms_quiz = Quiz("dbms")
